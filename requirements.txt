@@ -1,0 +1,15 @@
+pip install tqdm==4.66.1
+pip install opencv-contrib-python==4.8.0.76
+pip install opencv-python==4.8.0.76
+pip install opencv-python-headless==4.9.0.80
+pip install scipy==1.11.3
+pip install dominate==2.9.1
+pip install albumentations==0.5.2
+pip install numpy==1.23.5
+pip install beautifulsoup4==4.12.2
+pip install scikit-image==0.22.0
+pip install librosa==0.10.1
+pip install numba==0.56.4 
+pip install torch==1.13.1
+pip install torchvision==0.14.1
+pip install Django==2.1.7

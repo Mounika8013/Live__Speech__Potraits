@@ -70,7 +70,23 @@ This guide provides a detailed walkthrough of the steps required to execute the 
 ### Execution Guidance
 To run these steps, ensure each command and instruction is followed as described in the notebook. Proper execution of these steps will lead to the successful animation of images using the designated audio files, viewable directly within the notebook or output directory.
 
+Certainly! Here’s a simplified two-step guide for accessing and using the web application:
+
 ---
 
+## How to Use the Web Application
 
-This structured guide in the README file will help users understand and execute the notebook's workflow efficiently.
+### Step 1: Access and Authenticate
+   - Open the Link:After executing the notebook, a URL will be generated in the output. Open this URL in your web browser.
+   - Enter the Password:Use the password or endpoint IP provided in the previous output of the notebook to gain access if required.
+
+### Step 2: Upload Content and Generate Animation
+   - Capture or Upload an Image:You can either take a picture using your webcam directly through the web application or upload an existing image from your device.
+   - Upload an Audio File:Select and upload an audio file. This audio will be used to animate the image.
+   - Generate and View Animation:Click the 'Generate Animation' button to process your inputs. The application will then display the animated video where the image mimics the audio.
+
+---
+
+This streamlined approach ensures users can easily access and interact with the web application, allowing for a straightforward experience in creating talking-head animations.
+
+---

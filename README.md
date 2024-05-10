@@ -69,7 +69,13 @@ python demo.py --id May --driving_audio ./data/Input/00083.wav --device cuda
 Results will be stored in the `results` folder.Now you view in the [Results](https://github.com/Mounika8013/Live__Speech__Potraits/tree/577a5204dd83c2f45f67ac485868c75fe5c9018d/results) on the browser.
 
 ## Execute App
-Execution of app is avaliable in this at Bottom cells in google coolab
+The steps include(which are provided in cocolab last cells) :
+!npm install localtunnel
+import urllib
+print("Password/Enpoint IP for localtunnel is:",urllib.request.urlopen('https://ipv4.icanhazip.com').read().decode('utf8').strip("\n"))
+!streamlit run app.py &>/content/logs.txt &
+!npx localtunnel --port 8501
+
 
 To execute the google coolab code, please use our [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing). This notebook is set up to guide you through the entire process, from setting up your environment to running the inference code.
 

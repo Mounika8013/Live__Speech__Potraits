@@ -19,7 +19,7 @@ To execute the google coolab code, please use our [Google Colab notebook](https:
 
 Ensure your system meets the following requirements for successful installation:
 
-- **Operating System:** Tested on Windows 10, but should work on Linux (not tested)
+- **Operating System:** Tested on Windows 10,and MAC
 - **Python Version:** Python 3.6
 - **Deep Learning Framework:** PyTorch 1.7 (lower versions may work but are not tested)
 - **Additional Software:** FFmpeg is required for combining audio with silent generated videos

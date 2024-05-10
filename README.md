@@ -28,6 +28,8 @@ We recommend setting up a new conda environment specifically for this project:
 ```bash
 conda create -n LSP python=3.6
 conda activate LSP
+ ```
+
 
 
 ### Installation Steps

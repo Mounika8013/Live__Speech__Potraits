@@ -69,11 +69,17 @@ python demo.py --id May --driving_audio ./data/Input/00083.wav --device cuda
 Results will be stored in the `results` folder.Now you view in the [Results](https://github.com/Mounika8013/Live__Speech__Potraits/tree/577a5204dd83c2f45f67ac485868c75fe5c9018d/results) on the browser.
 
 ## Execute App
+
 The steps include(which are provided in cocolab last cells) :
+
 !npm install localtunnel
+
 import urllib
+
 print("Password/Enpoint IP for localtunnel is:",urllib.request.urlopen('https://ipv4.icanhazip.com').read().decode('utf8').strip("\n"))
+
 !streamlit run app.py &>/content/logs.txt &
+
 !npx localtunnel --port 8501
 
 

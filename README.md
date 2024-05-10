@@ -15,6 +15,10 @@ Link to Google Cooolab -[Google Colab notebook](https://colab.research.google.co
 
 Link to recorded real time ouput video It tells how to execute Real time application the output for this mentioned in below link-[link](https://github.com/Mounika8013/Live__Speech__Potraits/blob/6bea0c148cd73997ac8a421a7a7d1300a6018d81/Output%20Recorded%20video/video1576803031.mp4)
 
+1.It includes everything from setting up your environment to running the inference code. Each section of the notebook is well-documented with instructions and comments to ensure you can easily understand and follow the procedures.
+
+2.Additionally, the notebook is designed to be interactive, allowing you to modify parameters and immediately see the effects, thereby enhancing your learning and experimentation experience.
+
 
 
 Output link-[Output link](https://github.com/Mounika8013/Live__Speech__Potraits/blob/23fdecf6899646384a7675ab70d5e28356f6f447/Output%20Recorded%20video/final%20output%20.mp4)

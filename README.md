@@ -11,6 +11,10 @@ Link to Original Github-[https://github.com/YuanxunLu/LiveSpeechPortraits/tree/m
 
 Link to Project Report-[Report](https://docs.google.com/document/d/1bEy8TEzwLRFBtvq0ZIUokv3UQtq91Z2Fo6JcgcQGzTI/edit?usp=sharing)
 
+Link to Google Cooolab -[Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing)
+
+Link to recorded real time ouput video-[link]
+
 ## Link to Google Coolab Live Speech Portraits Notebook
 
 To execute the google coolab code, please use our [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing). This notebook is set up to guide you through the entire process, from setting up your environment to running the inference code.

@@ -46,7 +46,7 @@ Here's a concise outline of the steps involved in executing the notebook for inc
 
 ---
 ## Google Coolab
-https://github.com/Mounika8013/Live__Speech__Potraits/blob/6a22ab805ae0e47c05efea3469131cf5d325839c/Live__Speech__Potraits_.ipynb
+[https://github.com/Mounika8013/Live__Speech__Potraits/blob/6a22ab805ae0e47c05efea3469131cf5d325839c/Live__Speech__Potraits_.ipynb](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing)
 
 
 ## Execution Steps for the Notebook

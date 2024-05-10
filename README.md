@@ -4,6 +4,7 @@
 # LIVE SPEECH PORTRAITS: REAL-TIME PHOTOREALISTIC TALKING-HEAD ANIMATION -Team -10
 Contributions: - Supraj Bejugam, Arun Kusuma, Vaibhavi Rachamalla,Prakathesh Kumarasamy Samynathan ,Mounika Devabhaktuni
 Live Speech Portraits is designed to transform digital communication by creating real-time, photorealistic talking-head animations from audio inputs. By harnessing advanced machine learning technologies, this project enhances the realism of virtual interactions to mirror the naturalness of face-to-face conversations.
+
 Link to Original Github-[https://github.com/YuanxunLu/LiveSpeechPortraits/tree/main)
 
 Link to Project Report-[Report](https://docs.google.com/document/d/1bEy8TEzwLRFBtvq0ZIUokv3UQtq91Z2Fo6JcgcQGzTI/edit?usp=sharing)
@@ -32,27 +33,26 @@ conda activate LSP
 
 ### Installation Steps
 
- **Clone the Repository**
+1. **Clone the Repository**
    - Clone the Live Speech Portraits repository from GitHub:
      ```bash
      git clone https://github.com/YuanxunLu/LiveSpeechPortraits.git
      cd LiveSpeechPortraits
      ```
 
-**Install FFmpeg**
+2.**Install FFmpeg**
    - For Windows, please check [FFmpeg's official site](https://ffmpeg.org/download.html) for installation instructions.
    - For Linux users, install FFmpeg using:
      ```bash
      sudo apt-get install ffmpeg
      ```
 
- **Install Dependencies**
+3. **Install Dependencies**
    - Install the required Python packages:
      ```bash
      pip install -r requirements.txt
      ```
-
- **Download Pretrained Models**
+4. **Download Pretrained Models**
 - Download the pre-trained models and data from [Google Drive](https://drive.google.com/drive/folders/1sHc2xEEGwnb0h2rkUhG9sPmOxvRvPVpJ?usp=sharing) to the `data` folder.  Five subjects data are released (May, Obama1, Obama2, Nadella and McStay).
 
 ### Running the Demo

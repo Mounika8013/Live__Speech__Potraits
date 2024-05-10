@@ -45,6 +45,9 @@ Results from the demo will be stored in the `results` folder.
 Here's a concise outline of the steps involved in executing the notebook for inclusion in the README file on GitHub:
 
 ---
+## Google Coolab
+https://github.com/Mounika8013/Live__Speech__Potraits/blob/6a22ab805ae0e47c05efea3469131cf5d325839c/Live__Speech__Potraits_.ipynb
+
 
 ## Execution Steps for the Notebook
 

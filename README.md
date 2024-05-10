@@ -70,7 +70,7 @@ Results will be stored in the `results` folder.Now you view in the [Results](htt
 
 ## Execute App
 
-The steps include(which are provided in cocolab last cells) :
+The steps include(which are provided in cocolab last cells [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing)) :
 
 1.npm install localtunnel
 
@@ -83,7 +83,7 @@ print("Password/Enpoint IP for localtunnel is:",urllib.request.urlopen('https://
 4.!npx localtunnel --port 8501
 
 
-To execute the google coolab code, please use our [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing). This notebook is set up to guide you through the entire process, from setting up your environment to running the inference code.
+
 
 
 

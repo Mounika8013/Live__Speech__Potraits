@@ -30,27 +30,27 @@ conda activate LSP
 
 ### Installation Steps
 
-1. **Clone the Repository**
+ **Clone the Repository**
    - Clone the Live Speech Portraits repository from GitHub:
      ```bash
      git clone https://github.com/YuanxunLu/LiveSpeechPortraits.git
      cd LiveSpeechPortraits
      ```
 
-2. **Install FFmpeg**
+**Install FFmpeg**
    - For Windows, please check [FFmpeg's official site](https://ffmpeg.org/download.html) for installation instructions.
    - For Linux users, install FFmpeg using:
      ```bash
      sudo apt-get install ffmpeg
      ```
 
-3. **Install Dependencies**
+ **Install Dependencies**
    - Install the required Python packages:
      ```bash
      pip install -r requirements.txt
      ```
 
-4. **Download Pretrained Models**
+ **Download Pretrained Models**
 - Download the pre-trained models and data from [Google Drive](https://drive.google.com/drive/folders/1sHc2xEEGwnb0h2rkUhG9sPmOxvRvPVpJ?usp=sharing) to the `data` folder.  Five subjects data are released (May, Obama1, Obama2, Nadella and McStay).
 
 ### Running the Demo
@@ -62,7 +62,7 @@ python demo.py --id May --driving_audio ./data/Input/00083.wav --device cuda
 Results will be stored in the `results` folder.
 
 ### Docker and Web Demo
-Now you can run the [Demo](https://replicate.ai/yuanxunlu/livespeechportraits) on the browser.
+Now you can run the [Demo](https://github.com/Mounika8013/Live__Speech__Potraits/tree/577a5204dd83c2f45f67ac485868c75fe5c9018d/results) on the browser.
 ```
 
 This version of the README includes detailed steps for environment setup, dependencies installation, and running demos, providing a comprehensive guide for new users to get started with the Live Speech Portraits project.

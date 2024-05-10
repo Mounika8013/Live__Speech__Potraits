@@ -14,7 +14,10 @@ Link to Project Report-[Report](https://docs.google.com/document/d/1bEy8TEzwLRFB
 Link to Google Cooolab -[Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing)
 
 Link to recorded real time ouput video It tells how to execute Real time application the output for this mentioned in below link-[link](https://github.com/Mounika8013/Live__Speech__Potraits/blob/6bea0c148cd73997ac8a421a7a7d1300a6018d81/Output%20Recorded%20video/video1576803031.mp4)
-Output link-[Output link]
+
+
+
+Output link-[Output link](https://github.com/Mounika8013/Live__Speech__Potraits/blob/23fdecf6899646384a7675ab70d5e28356f6f447/Output%20Recorded%20video/final%20output%20.mp4)
 
 
 ## Link to Google Coolab Live Speech Portraits Notebook

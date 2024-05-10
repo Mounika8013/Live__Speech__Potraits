@@ -4,8 +4,8 @@
 # LIVE SPEECH PORTRAITS: REAL-TIME PHOTOREALISTIC TALKING-HEAD ANIMATION -Team -10
 Contributions: - Supraj Bejugam, Arun Kusuma, Vaibhavi Rachamalla,Prakathesh Kumarasamy Samynathan ,Mounika Devabhaktuni
 Live Speech Portraits is designed to transform digital communication by creating real-time, photorealistic talking-head animations from audio inputs. By harnessing advanced machine learning technologies, this project enhances the realism of virtual interactions to mirror the naturalness of face-to-face conversations.
-Link to Original Github-[https://github.com/Mounika8013/Live_Speech_Potraits)
-Link to Project Report-[Report](https://docs.google.com/document/d/1bEy8TEzwLRFBtvq0ZIUokv3UQtq91Z2Fo6JcgcQGzTI/edit?usp=sharing)
+# Link to Original Github-[https://github.com/YuanxunLu/LiveSpeechPortraits/tree/main)
+# Link to Project Report-[Report](https://docs.google.com/document/d/1bEy8TEzwLRFBtvq0ZIUokv3UQtq91Z2Fo6JcgcQGzTI/edit?usp=sharing)
 ## Link to Google Coolab Live Speech Portraits Notebook
 
 To execute the google coolab code, please use our [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing). This notebook is set up to guide you through the entire process, from setting up your environment to running the inference code.

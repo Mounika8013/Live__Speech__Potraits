@@ -72,15 +72,15 @@ Results will be stored in the `results` folder.Now you view in the [Results](htt
 
 The steps include(which are provided in cocolab last cells) :
 
-!npm install localtunnel
+1.** !npm install localtunnel **
 
-import urllib
+2.** import urllib
 
-print("Password/Enpoint IP for localtunnel is:",urllib.request.urlopen('https://ipv4.icanhazip.com').read().decode('utf8').strip("\n"))
+print("Password/Enpoint IP for localtunnel is:",urllib.request.urlopen('https://ipv4.icanhazip.com').read().decode('utf8').strip("\n")) **
 
-!streamlit run app.py &>/content/logs.txt &
+3. ** !streamlit run app.py &>/content/logs.txt & **
 
-!npx localtunnel --port 8501
+4. ** !npx localtunnel --port 8501 **
 
 
 To execute the google coolab code, please use our [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing). This notebook is set up to guide you through the entire process, from setting up your environment to running the inference code.

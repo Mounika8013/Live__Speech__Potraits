@@ -77,6 +77,7 @@ The steps include(which are provided in cocolab last cells) :
 2.import urllib
 
 print("Password/Enpoint IP for localtunnel is:",urllib.request.urlopen('https://ipv4.icanhazip.com').read().decode('utf8').strip("\n")) 
+
 3.!streamlit run app.py &>/content/logs.txt & 
 
 4.!npx localtunnel --port 8501

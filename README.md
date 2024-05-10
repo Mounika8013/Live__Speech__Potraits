@@ -71,6 +71,64 @@ This version of the README includes detailed steps for environment setup, depend
 
 
 
+Certainly! Here's how to structure and format the installation instructions for the Live Speech Portraits project, tailored to match the style you provided from a previous example:
+
+```markdown
+## How to Install Manually
+
+Make sure the following prerequisites are installed and can be accessed via your terminal:
+
+- **Python 3.6 or later**
+- **Pip**
+- **Git**
+- **Cuda for GPU acceleration** (Windows & Linux)
+
+### Installation Steps
+
+1. **Clone the Repository**
+   - Clone the Live Speech Portraits repository from GitHub:
+     ```bash
+     git clone https://github.com/YuanxunLu/LiveSpeechPortraits.git
+     cd LiveSpeechPortraits
+     ```
+
+2. **Install FFmpeg**
+   - For Windows users, please check [FFmpeg's official site](https://ffmpeg.org/download.html) for installation instructions.
+   - For Linux users, FFmpeg can be installed using the following command:
+     ```bash
+     sudo apt-get install ffmpeg
+     ```
+
+3. **Install Dependencies**
+   - Install the required Python packages by running:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+4. **Download Pretrained Models**
+   - Download the pre-trained models and data from [Google Drive](https://drive.google.com/drive/folders/1sHc2xEEGwnb0h2rkUhG9sPmOxvRvPVpJ?usp=sharing) to the `data` folder. Released data includes five subjects: May, Obama1, Obama2, Nadella, and McStay.
+
+### Running the Demo
+
+Execute the demo script to animate portraits using provided audio files:
+```bash
+python demo.py --id May --driving_audio ./data/Input/00083.wav --device cuda
+```
+- Ensure your setup includes a CUDA-capable GPU to leverage hardware acceleration.
+
+### Test the Setup
+- To verify everything is set up correctly:
+  - Provide a video file (`input_vid.mp4`) containing the face of the person for lip-syncing.
+  - Supply an audio file (`input_audio.wav`) with the speech or audio you want to sync.
+  - Ensure the path `checkpoints/live_speech_portraits.pth` points to the correct location of your downloaded pretrained model.
+
+### View Output
+- After running the demo command, you can find the resulting animation as `result_voice.mp4` in the `results` folder.
+```
+
+This formatting maintains a clear, organized structure with headings for each section, code blocks for commands, and lists for requirements, mirroring the clarity and detail seen in the example you liked. This will help users follow the installation and usage steps effectively.
+
+
 ---
 ## Steps for executing it on Local 
 ## Introduction

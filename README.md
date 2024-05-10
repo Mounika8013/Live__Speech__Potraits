@@ -24,6 +24,8 @@ Output link-[Output link](https://github.com/Mounika8013/Live__Speech__Potraits/
 
 To execute the google coolab code, please use our [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing). This notebook is set up to guide you through the entire process, from setting up your environment to running the inference code.
 
+
+
 ## How to Install Manually
 
 Ensure your system meets the following requirements for successful installation:

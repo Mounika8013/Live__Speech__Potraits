@@ -66,10 +66,9 @@ Execute the demo script to animate portraits using provided audio files:
 ```bash
 python demo.py --id May --driving_audio ./data/Input/00083.wav --device cuda
 ```
-Results will be stored in the `results` folder.Now you view in the [Demo](https://github.com/Mounika8013/Live__Speech__Potraits/tree/577a5204dd83c2f45f67ac485868c75fe5c9018d/results) on the browser.
+Results will be stored in the `results` folder.Now you view in the [Results](https://github.com/Mounika8013/Live__Speech__Potraits/tree/577a5204dd83c2f45f67ac485868c75fe5c9018d/results) on the browser.
 
 
-### Docker and Web Demo
-Now you can run the [Demo](https://github.com/Mounika8013/Live__Speech__Potraits/tree/577a5204dd83c2f45f67ac485868c75fe5c9018d/results) on the browser.
+
 
 

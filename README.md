@@ -46,7 +46,11 @@ Here's a concise outline of the steps involved in executing the notebook for inc
 
 ---
 ## Google Coolab
-[https://github.com/Mounika8013/Live__Speech__Potraits/blob/6a22ab805ae0e47c05efea3469131cf5d325839c/Live__Speech__Potraits_.ipynb](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing)
+## Live Speech Portraits Notebook
+
+To execute the google coolab code, please use our [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing). This notebook is set up to guide you through the entire process, from setting up your environment to running the inference code.
+
+
 
 
 ## Execution Steps for the Notebook

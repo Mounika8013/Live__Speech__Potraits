@@ -29,9 +29,12 @@ We recommend setting up a new conda environment specifically for this project:
 conda create -n LSP python=3.6
 conda activate LSP
 
+
 ### Installation Steps
 
-1. **Clone the Repository**
+
+
+1.**Clone the Repository**
    - Clone the Live Speech Portraits repository from GitHub:
      ```bash
      git clone https://github.com/YuanxunLu/LiveSpeechPortraits.git

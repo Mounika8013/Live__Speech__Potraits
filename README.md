@@ -32,7 +32,7 @@ To execute the google coolab code, please use our [Google Colab notebook](https:
 
 
 
-## How to Install Manually
+## How to Install Manually(Local Implementation)
 
 Ensure your system meets the following requirements for successful installation:
 

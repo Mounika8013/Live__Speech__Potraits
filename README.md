@@ -8,6 +8,7 @@ Contributions: - Supraj Bejugam, Arun Kusuma, Vaibhavi Rachamalla,Prakathesh Kum
 Live Speech Portraits is designed to transform digital communication by creating real-time, photorealistic talking-head animations from audio inputs. By harnessing advanced machine learning technologies, this project enhances the realism of virtual interactions to mirror the naturalness of face-to-face conversations.
 
 This project harnesses advanced deep learning techniques to create photorealistic talking-head animations directly from audio input. Our approach integrates speech representation learning, head pose estimation from audio, and video-based facial reenactment to produce animations that are not only realistic but also dynamically correspond to the nuances of spoken audio. The system architecture is designed to efficiently handle real-time processing challenges, ensuring scalability and integration across platforms. This repository contains all necessary scripts, pretrained models, and detailed steps for setting up the environment, executing the scripts, and deploying the model both locally and via Google Colab and also a real time web application to  capture an image using webcam and generate the output.
+![alt text](https://github.com/Mounika8013/Live__Speech__Potraits/blob/main/doc.png)
 
 
 Link to Original Github-[https://github.com/YuanxunLu/LiveSpeechPortraits/tree/main)

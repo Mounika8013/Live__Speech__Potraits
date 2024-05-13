@@ -38,6 +38,7 @@ To execute the google coolab code, please use our [Google Colab notebook](https:
 
 
 ## How to Install Manually(Local Implementation)
+Link to google Drive-[Google Drive](https://drive.google.com/drive/folders/1rV9TOFbnv34LdKmxE_UFVKGnhzsGQlOk?usp=drive_link)
 
 Ensure your system meets the following requirements for successful installation:
 

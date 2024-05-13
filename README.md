@@ -94,16 +94,38 @@ Results will be stored in the `results` folder.Now you view in the [Results](htt
 
 The steps include(which are provided in cocolab last cells [Google Colab notebook](https://colab.research.google.com/drive/1EyI5354t9EG5eCuPYPwZZMUJ9etwGsNZ?usp=sharing)) :
 
-1.npm install localtunnel
+To run the app, you'll need to follow these steps:
 
-2.import urllib
+1. **Install LocalTunnel**: You can install LocalTunnel via npm using the following command:
+   ```
+   npm install -g localtunnel
+   ```
 
-print("Password/Enpoint IP for localtunnel is:",urllib.request.urlopen('https://ipv4.icanhazip.com').read().decode('utf8').strip("\n")) 
+2. **Import urllib**: If you're running this code outside of Python, you might not be able to use the `urllib` library directly. You can achieve similar functionality using Node.js's `http` or `axios` module. Here's an example using `axios`.Now after executing it you will get a password which you have to enter after openning the link generated in step4
+   ```javascript
+   const axios = require('axios');
 
-3.!streamlit run app.py &>/content/logs.txt & 
+   axios.get('https://ipv4.icanhazip.com')
+     .then(response => {
+       console.log("Password/Endpoint IP for localtunnel is:", response.data.trim());
+     })
+     .catch(error => {
+       console.error('Error fetching IP:', error);
+     });
+   ```
 
-4.!npx localtunnel --port 8501
+3. **Run the Streamlit App**: You can run the Streamlit app using the following command:
+   ```
+   streamlit run app.py &> logs.txt &
+   ```
 
+4. **Run LocalTunnel**: Once your Streamlit app is running, you can use LocalTunnel to expose it to the internet. Run the following command:
+   ```
+   npx localtunnel --port 8501
+   ```
+   This command will provide you with a public URL that you can share to access your Streamlit app remotely.
+
+Make sure you have your Streamlit app (`app.py`) in the correct directory, and you have the necessary permissions to run these commands. Additionally, if you're using the code outside of a Python environment, ensure you have Node.js installed to execute the JavaScript code.
 
 
 
